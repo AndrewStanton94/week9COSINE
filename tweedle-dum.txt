@@ -1,0 +1,2 @@
+Some random text that should demonstrate the reading of the content of the file.
+Not sure how long this will remain in the repo. As this week is not an incremental development process, I don't need to use branches.
