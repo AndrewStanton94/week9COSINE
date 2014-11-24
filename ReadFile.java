@@ -9,5 +9,6 @@ public class ReadFile {
 										// Data from, start index, |chars|
 			numBytesRead = in.read(buffer);
 		}
+		in.close();
 	}
 }
